@@ -1,6 +1,5 @@
-110/ 100
+130/ 100
 Last update Mon May 18 22:34:45 2015 -0700
--10: late
 -----------------------------------------------------
 [1]  Input redirection from an existant file (25)
 -----------------------------------------------------
@@ -30,7 +29,7 @@ celik$ this is correct
 celik$ 
 -----------------------------------------------------
   Extra 1: <<< (20)
-celik$   -20: Does not work!
+celik$   -10: Does not work for more than one word
 
 -----------------------------------------------------
   Extra 2 (20)
